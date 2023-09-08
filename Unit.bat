@@ -1,1 +1,1 @@
-echo "Running Unit Test Cases d : %date% : %time%"
+echo "Running Unit Test Cases: %date% : %time%"
